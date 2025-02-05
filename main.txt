@@ -1,0 +1,5 @@
+git config --global user.email "riddhi.patel@matrixcomsec.com"
+
+ git config --global user.name "Riddhi Patel"
+ git init
+ git status
